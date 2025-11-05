@@ -1,7 +1,6 @@
 """
 This program is design for the Student Grading System.
 By : Yuvraj Yadav
-Student ID : A00026274
 Now, we will import some module which we will use in this program.
 """
 
